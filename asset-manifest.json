@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/deoduoc/static/css/main.b51a5e2c.chunk.css",
+    "main.js": "/deoduoc/static/js/main.caa04302.chunk.js",
+    "main.js.map": "/deoduoc/static/js/main.caa04302.chunk.js.map",
+    "runtime-main.js": "/deoduoc/static/js/runtime-main.ea43a32d.js",
+    "runtime-main.js.map": "/deoduoc/static/js/runtime-main.ea43a32d.js.map",
+    "static/css/2.8b14ae40.chunk.css": "/deoduoc/static/css/2.8b14ae40.chunk.css",
+    "static/js/2.2dd692eb.chunk.js": "/deoduoc/static/js/2.2dd692eb.chunk.js",
+    "static/js/2.2dd692eb.chunk.js.map": "/deoduoc/static/js/2.2dd692eb.chunk.js.map",
+    "index.html": "/deoduoc/index.html",
+    "static/css/2.8b14ae40.chunk.css.map": "/deoduoc/static/css/2.8b14ae40.chunk.css.map",
+    "static/css/main.b51a5e2c.chunk.css.map": "/deoduoc/static/css/main.b51a5e2c.chunk.css.map",
+    "static/js/2.2dd692eb.chunk.js.LICENSE.txt": "/deoduoc/static/js/2.2dd692eb.chunk.js.LICENSE.txt",
+    "static/media/slick-theme.css": "/deoduoc/static/media/slick.c94f7671.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ea43a32d.js",
+    "static/css/2.8b14ae40.chunk.css",
+    "static/js/2.2dd692eb.chunk.js",
+    "static/css/main.b51a5e2c.chunk.css",
+    "static/js/main.caa04302.chunk.js"
+  ]
+}
